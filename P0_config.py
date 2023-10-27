@@ -22,7 +22,7 @@ def set_opt():
     parser.add_argument('--n_rnn_layer', type=int, default=1, help='number of rnn layers')
     parser.add_argument('--rnn_dropout', type=float, default=0.0)
     parser.add_argument('--L_forwardPunishThreshold', type=float, default=0.7)
-    parser.add_argument('--L_backwardPunishThreshold', type=float, default=0.2)
+    parser.add_argument('--L_backwardPunishThreshold', type=float, default=0.3)
     parser.add_argument('--LForwardPunish', type=int, default=1)
     parser.add_argument('--LBackPunish', type=int, default=1)
     parser.add_argument('--G_punishThresholdCoef', type=float, default=0.4)
