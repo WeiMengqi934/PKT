@@ -5,7 +5,7 @@ import torch
 def set_opt():
     parser = ArgumentParser()
     parser.add_argument('--dataset', type=str, default='assist0910',
-                        help='choose from assist0910, assist17, statics11, EdNet, Eedi, fsaif1tof3')
+                        help='choose from assist0910, assist17, static11, EdNet, Eedi, fsaif1tof3')
     parser.add_argument('--datasetNum', type=str, default='1')
     parser.add_argument('--shuffleDataloader', type=bool, default=True)
     parser.add_argument('--min_seq_len', type=int, default=2,
