@@ -15,7 +15,7 @@ def get_num_skill(dataset):
         return 110
     elif dataset == 'assist17':
         return 102
-    elif dataset == 'statics11':
+    elif dataset == 'static11':
         return 110
     elif dataset == 'EdNet':
         return 1849
@@ -32,7 +32,7 @@ def get_num_question(dataset):
         return 16891
     elif dataset == 'assist17':
         return 3162
-    elif dataset == 'statics11':
+    elif dataset == 'static11':
         return 633
     elif dataset == 'EdNet':
         return 11848
