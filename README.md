@@ -1,8 +1,7 @@
 # PKT
 《Progressive knowledge tracing: Modeling learning process from abstract to concrete》  
 
-Paper download link: https://www.sciencedirect.com/science/article/pii/S0957417423027823?dgcid=coauthor
-
+Paper download link: https://www.sciencedirect.com/science/article/pii/S0957417423027823?via%3Dihub   
 ## Data Format
 First line: The total number of exercises done by the student;  
 Second line: The sequence of question IDs corresponding to the exercises;  
