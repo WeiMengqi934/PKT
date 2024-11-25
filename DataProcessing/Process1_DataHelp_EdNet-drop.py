@@ -2,7 +2,7 @@
 
 import numpy as np
 
-with open('../1_data_AKT_Ques/data_4/EdNet/EdNet_all_que_skill.txt', 'r') as f_data:
+with open('../EdNet_all_que_skill.txt', 'r') as f_data:
     data_all = f_data.read().split('\n')
 
 while data_all[0] == '':
@@ -34,7 +34,7 @@ num_group = len(data)
 # num_group = round(szAll_4/4)
 index_list = [i for i in range(num_group)]
 
-with open('../1_data_AKT_Ques/data_4/EdNet/EdNet_drop1000.csv', 'w') as f:
+with open('../EdNet_drop1000.csv', 'w') as f:
     for i in range(num_group):
         f.write(data[index_list[i]][0])
         f.write('\n')
