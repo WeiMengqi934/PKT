@@ -2,9 +2,7 @@ import numpy as np
 import pandas as pd
 import csv
 
-# todo:————————划分数据集——————————————
-# 每四行为一组
-# 打开待划分的总数据集
+# 划分数据集,每四行为一组
 with open('../1_data_AKT_Ques/data_4/EdNet/EdNet_drop1000.csv', 'r') as f_data:
     data_all = f_data.read().split('\n')
 
@@ -15,7 +13,7 @@ while data_all[-1] == '':
 
 szAll_4 = len(data_all)
 
-# begin--四个为一组，将数据进行分组
+# begin------四个为一组，将数据进行分组
 data = []
 i = 0
 while i < szAll_4:
@@ -29,7 +27,7 @@ while i < szAll_4:
     i += 4
 
 # print(data[2])
-# end----------------------分组结束---------------------
+# end-----------------------------------
 
 
 num_group = round(szAll_4/4)
@@ -47,8 +45,7 @@ print("num_train: ",num_train)
 print("num_eval: ",num_eval)
 print("num_test: ",num_test)
 
-# 开始分
-# 给数据集命名，先是train，再是eval，再是test
+# 开始分，先是train，再是eval，再是test
 with open('../1_data_AKT_Ques/data_4/EdNet/train5.csv', 'w') as f:
 # with open('../1_data_AKT_Ques/assist12/train1.csv', 'w') as f:
     for i in range(num_train):
