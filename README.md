@@ -1,7 +1,18 @@
 # PKT
-《Progressive knowledge tracing: Modeling learning process from abstract to concrete》  
+Paper title:《Progressive knowledge tracing: Modeling learning process from abstract to concrete》  
 
 Paper download link: https://www.sciencedirect.com/science/article/pii/S0957417423027823?via%3Dihub   
+
+## News！
+**Notice that our work has made further progress.** 
+
+The paper "Remembering is Not Applying: Interpretable Knowledge Tracing for Problem-solving Processes" has engaged in a comparison with our PKT model, and the related achievements have been published in the top conference 2024 ACM MM. **(ACM International Conference on Multimedia)**
+
+link:https://openreview.net/forum?id=gDXAv76iP2
+
+**The fact that our model is being used as a benchmark for comparison indicates that our work is meaningful and has been recognized! We welcome everyone to follow up on this research.**
+
+
 ## Data Format
 First line: The total number of exercises done by the student;  
 Second line: The sequence of question IDs corresponding to the exercises;  
@@ -43,14 +54,6 @@ If you find this code useful in your research then please consider citing the fo
   publisher={Elsevier}
 }
 ```
-## News！
-**Notice that our work has made further progress.** 
-
-The paper "Remembering is Not Applying: Interpretable Knowledge Tracing for Problem-solving Processes" has engaged in a comparison with our PKT model, and the related achievements have been published in the top conference 2024 ACM MM. **(ACM International Conference on Multimedia)**
-
-link:https://openreview.net/forum?id=gDXAv76iP2
-
-The fact that our model is being used as a benchmark for comparison indicates that our work is meaningful and has been recognized! We welcome everyone to follow up on this research.
 
 
 
