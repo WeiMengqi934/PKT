@@ -44,9 +44,11 @@ If you find this code useful in your research then please consider citing the fo
 }
 ```
 ## News！
-** Notice that our work has made further progress.** 
+**Notice that our work has made further progress.** 
 
-The paper "Remembering is Not Applying: Interpretable Knowledge Tracing for Problem-solving Processes" has engaged in a comparison with our PKT model, and the related achievements have been published in the top conference ACM MM. (ACM International Conference on Multimedia)
+The paper "Remembering is Not Applying: Interpretable Knowledge Tracing for Problem-solving Processes" has engaged in a comparison with our PKT model, and the related achievements have been published in the top conference 2024 ACM MM. **(ACM International Conference on Multimedia)**
+
+link:https://openreview.net/forum?id=gDXAv76iP2
 
 The fact that our model is being used as a benchmark for comparison indicates that our work is meaningful and has been recognized! We welcome everyone to follow up on this research.
 
