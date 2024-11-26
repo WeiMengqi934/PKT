@@ -10,7 +10,8 @@ The paper "Remembering is Not Applying: Interpretable Knowledge Tracing for Prob
 
 link:https://openreview.net/forum?id=gDXAv76iP2
 
-**The fact that our model is being used as a benchmark for comparison indicates that our work is meaningful and has been recognized!  We welcome everyone to follow up on this research.**
+
+**The fact that our model is being used as a benchmark for comparison indicates that our work is meaningful and has been recognized! We encourage everyone to follow up on this research!**
 
 **有研究者注意到了我们的工作并进一步取得了可喜的成果。**
 
