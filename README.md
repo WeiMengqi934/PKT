@@ -8,14 +8,16 @@ Paper download link: https://www.sciencedirect.com/science/article/pii/S09574174
 
 The paper "Remembering is Not Applying: Interpretable Knowledge Tracing for Problem-solving Processes" has engaged in a comparison with our PKT model, and the related achievements have been published in the top conference 2024 ACM MM. **(ACM International Conference on Multimedia)**
 
-link:https://openreview.net/forum?id=gDXAv76iP2
+link:https://dl.acm.org/doi/abs/10.1145/3664647.3681049
 
 
 **The fact that our model is being used as a benchmark for comparison indicates that our work is meaningful and has been recognized! We encourage everyone to follow up on this research!**
 
-**有研究者注意到了我们的工作并进一步取得了可喜的成果。**
+**有研究者注意到了我们的工作并进一步取得了可喜的成果**
 
-《Remembering is Not Applying: Interpretable Knowledge Tracing for Problem-solving Processes》该论文和我们的PKT模型进行了对比，相关成果已经发表在顶会2024 ACM MM上。能够作为被对比的模型，也说明我们的工作是有意义的且被认可的，这也给我们注入了信心。
+《Remembering is Not Applying: Interpretable Knowledge Tracing for Problem-solving Processes》该论文和我们的PKT模型进行了对比，相关成果已经发表在顶会2024 ACM MM上。荣幸能够作为被对比的模型，也表明我们的工作是有意义的且被认可的，这给我们注入了信心。
+
+链接：https://dl.acm.org/doi/abs/10.1145/3664647.3681049
 
 非常欢迎大家跟进研究！
 
