@@ -3,23 +3,6 @@ Paper title:《Progressive knowledge tracing: Modeling learning process from abs
 
 Paper download link: https://www.sciencedirect.com/science/article/pii/S0957417423027823?via%3Dihub   
 
-## News！
-**Notice that our work has made further progress.** 
-
-The paper "Remembering is Not Applying: Interpretable Knowledge Tracing for Problem-solving Processes" has engaged in a comparison with our PKT model, and the related achievements have been published in the top conference 2024 ACM MM. **(ACM International Conference on Multimedia)**
-
-link:https://dl.acm.org/doi/abs/10.1145/3664647.3681049
-
-
-**The fact that our model is being used as a benchmark for comparison indicates that our work is meaningful and has been recognized! We encourage everyone to follow up on this research!**
-
-**有研究者注意到了我们的工作并进一步取得了可喜的成果**
-
-《Remembering is Not Applying: Interpretable Knowledge Tracing for Problem-solving Processes》该论文和我们的PKT模型进行了对比，相关成果已经发表在顶会2024 ACM MM上。荣幸能够作为被对比的模型，也表明我们的工作是有意义的且被认可的，这给我们注入了信心。
-
-链接：https://dl.acm.org/doi/abs/10.1145/3664647.3681049
-
-非常欢迎大家跟进研究！
 
 ## Data Format
 First line: The total number of exercises done by the student;  
@@ -53,14 +36,7 @@ FSAI-F1toF3: https://github.com/ckyeungac/DeepIRT/tree/master/data/fsaif1tof3
 ## Cite
 If you find this code useful in your research then please consider citing the following paper:  
 ```
-@article{sun2023progressive,
-  title={Progressive knowledge tracing: Modeling learning process from abstract to concrete},
-  author={Sun, Jianwen and Wei, Mengqi and Feng, Jintian and Yu, Fenghua and Zou, Rui and Li, Qing},
-  journal={Expert Systems with Applications},
-  pages={122280},
-  year={2023},
-  publisher={Elsevier}
-}
+Sun J, Wei M, Feng J, et al. Progressive knowledge tracing: Modeling learning process from abstract to concrete[J]. Expert Systems with Applications, 2024, 238: 122280.
 ```
 
 
